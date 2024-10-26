@@ -290,7 +290,7 @@
     <comment>Mail</comment>
   </data>
   <data name="B_Male.Content" xml:space="preserve">
-    <value>Männlich</
+    <value>Männlich</value>
     <comment>Male</comment>
   </data>
   <data name="B_MatchCase.ToolTipService.ToolTip" xml:space="preserve">
