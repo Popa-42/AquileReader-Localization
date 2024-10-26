@@ -118,772 +118,773 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="B_Add.Content" xml:space="preserve">
-    <value></value>
+    <value>Hinzufügen</value>
     <comment>Add</comment>
   </data>
   <data name="B_AddBook.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Neues Buch hinzufügen</value>
     <comment>Add new book</comment>
   </data>
   <data name="B_AddBookmark.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Lesezeichen hinzufügen</value>
     <comment>Add Bookmark</comment>
   </data>
   <data name="B_AddFolder.Content" xml:space="preserve">
-    <value></value>
+    <value>Ordner hinzufügen</value>
     <comment>Add folder</comment>
   </data>
   <data name="B_AddNote.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Notiz hinzufügen</value>
     <comment>Add Note</comment>
   </data>
   <data name="B_AddSite.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Neue Seite hinzufügen</value>
     <comment>Add new site</comment>
   </data>
   <data name="B_AudioSettings.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Audioeinstellungen</value>
     <comment>Audio settings</comment>
   </data>
   <data name="B_Back.Content" xml:space="preserve">
-    <value></value>
+    <value>Zurück</value>
     <comment>Back</comment>
   </data>
   <data name="B_Back1.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Zurück</value>
     <comment>Back</comment>
   </data>
   <data name="B_Backup_Bkp.Content" xml:space="preserve">
-    <value></value>
+    <value>Backup</value>
     <comment>Backup</comment>
   </data>
   <data name="B_Backup_Restore.Content" xml:space="preserve">
-    <value></value>
+    <value>Wiederherstellen</value>
     <comment>Restore</comment>
   </data>
   <data name="B_Blog.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Lies unseren Blog</value>
     <comment>Read our blog</comment>
   </data>
   <data name="B_Bookmarks.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Lesezeichen</value>
     <comment>Bookmarks</comment>
   </data>
   <data name="B_Cancel.Content" xml:space="preserve">
-    <value></value>
+    <value>Abbrechen</value>
     <comment>Cancel</comment>
   </data>
   <data name="B_ChngLog.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Changelog</value>
     <comment>Change log</comment>
   </data>
   <data name="B_ClearHighlight.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Markierung entfernen</value>
     <comment>Clear highlight</comment>
   </data>
   <data name="B_Close.Content" xml:space="preserve">
-    <value></value>
+    <value>Schließen</value>
     <comment>Close</comment>
   </data>
   <data name="B_Close1.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Schließen</value>
     <comment>Close</comment>
   </data>
   <data name="B_Collapse.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Einklappen</value>
     <comment>Collapse</comment>
   </data>
   <data name="B_ColorMenu.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Farben</value>
     <comment>Color Menu</comment>
   </data>
   <data name="B_ContactSupport.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Support kontaktieren</value>
     <comment>Contact support</comment>
   </data>
   <data name="B_Copy.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Kopieren</value>
     <comment>Copy</comment>
   </data>
   <data name="B_Credits.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Credits</value>
     <comment>Credits</comment>
   </data>
   <data name="B_Delete.Text" xml:space="preserve">
-    <value></value>
+    <value>Löschen</value>
     <comment>Delete</comment>
   </data>
   <data name="B_DeleteNote.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Notiz entfernen</value>
     <comment>Delete note</comment>
   </data>
   <data name="B_Done.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Fertig</value>
     <comment>Done</comment>
   </data>
   <data name="B_Downloads.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Downloads</value>
     <comment>Downloads</comment>
   </data>
   <data name="B_ExitReadingMode.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Lesemodus beenden (Strg + E)</value>
     <comment>Exit Reading Mode (Ctrl + E)</comment>
   </data>
   <data name="B_Expand.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Ausklappen</value>
     <comment>Expand</comment>
   </data>
   <data name="B_ExportCollection.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Kollektionen ausklappen</value>
     <comment>Export collections</comment>
   </data>
   <data name="B_Fb.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Like uns auf Facebook</value>
     <comment>Like us on Facebook</comment>
   </data>
   <data name="B_Female.Content" xml:space="preserve">
-    <value></value>
+    <value>Weiblich</value>
     <comment>Female</comment>
   </data>
   <data name="B_FilterFav.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Nach Favoriten filtern</value>
     <comment>Filter by favorites</comment>
   </data>
   <data name="B_Forward.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vorwärts</value>
     <comment>Forward</comment>
   </data>
   <data name="B_General.Content" xml:space="preserve">
-    <value></value>
+    <value>Zurücksetzen</value>
     <comment>Reset</comment>
   </data>
   <data name="B_GitHub.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>GitHub</value>
     <comment>GitHub</comment>
   </data>
   <data name="B_Group.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Gruppe</value>
     <comment>Group</comment>
   </data>
   <data name="B_Highlight.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Markieren</value>
     <comment>Highlight</comment>
   </data>
   <data name="B_Home.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Startseite</value>
     <comment>Home</comment>
   </data>
   <data name="B_Information.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Informationen</value>
     <comment>Information</comment>
   </data>
   <data name="B_JSInspect.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>JS Inspect</value>
     <comment>JS Inspect</comment>
   </data>
   <data name="B_LinkBack.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Zurück zur Linkquelle</value>
     <comment>Go back to link source</comment>
   </data>
   <data name="B_Mail.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>E-Mail</value>
     <comment>Mail</comment>
   </data>
   <data name="B_Male.Content" xml:space="preserve">
-    <value></value>
+    <value>Männlich</
     <comment>Male</comment>
   </data>
   <data name="B_MatchCase.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Groß-/Kleinschreibung beachten</value>
     <comment>Match case</comment>
   </data>
   <data name="B_MatchWWord.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Ganzes Wort</value>
     <comment>Match whole word</comment>
   </data>
   <data name="B_Next.Content" xml:space="preserve">
-    <value></value>
+    <value>Weiter</value>
     <comment>Next</comment>
   </data>
   <data name="B_NextLine.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Nächste Zeile (Strg + →)</value>
     <comment>Next Line (Ctrl + →)</comment>
   </data>
   <data name="B_NH.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Notizen &amp; Markierungen</value>
     <comment>Notes &amp; Highlights</comment>
   </data>
   <data name="B_OpenBook.Content" xml:space="preserve">
-    <value></value>
+    <value>Buch öffnen</value>
     <comment>Open Book</comment>
   </data>
   <data name="B_Pag1Cols.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Eine Spalte</value>
     <comment>Paginated 1 column</comment>
   </data>
   <data name="B_Pag2Cols.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Zwei Spalten</value>
     <comment>Paginated 2 columns</comment>
   </data>
   <data name="B_PagVertical.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vertikales Scrollen</value>
     <comment>Vertical scroll</comment>
   </data>
   <data name="B_PreviousLine.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vorherige Zeile (Strg + ←)</value>
     <comment>Previous Line (Ctrl + ←)</comment>
   </data>
   <data name="B_PrivacyPolicy.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Datenschutz</value>
     <comment>Privacy policy</comment>
   </data>
   <data name="B_RateStore.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Im Store bewerten</value>
     <comment>Rate on store</comment>
   </data>
   <data name="B_ReadAloud.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vorlesen (Strg + R)</value>
     <comment>Read Aloud (Ctrl + R)</comment>
   </data>
   <data name="B_ReadAloud1.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vorlesen</value>
     <comment>ReadAloud</comment>
   </data>
   <data name="B_ReadAloudSettings.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vorleseeinstellungen</value>
     <comment>ReadAloud settings</comment>
   </data>
   <data name="B_Refresh.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Aktualisieren</value>
     <comment>Refresh</comment>
   </data>
   <data name="B_Remove.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Entfernen</value>
     <comment>Remove</comment>
   </data>
   <data name="B_Reset.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Zurücksetzen</value>
     <comment>Reset</comment>
   </data>
   <data name="B_RmSyncFolderBtn1.Content" xml:space="preserve">
-    <value></value>
+    <value>Ja, aber Bücher behalten</value>
     <comment>Yes, but keep books</comment>
   </data>
   <data name="B_RmSyncFolderBtn2.Content" xml:space="preserve">
-    <value></value>
+    <value>Ja, und Bücher entfernen</value>
     <comment>Yes, and remove books</comment>
   </data>
   <data name="B_Save.Content" xml:space="preserve">
-    <value></value>
+    <value>Speichern</value>
     <comment>Save</comment>
   </data>
   <data name="B_Search.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Suchen</value>
     <comment>Search</comment>
   </data>
   <data name="B_Search1.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Suchen (Strg + F)</value>
     <comment>Search (Ctrl + F)</comment>
   </data>
   <data name="B_SearchWeb.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Im Web suchen</value>
     <comment>Search web</comment>
   </data>
   <data name="B_SelectFolder.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Ordner auswählen</value>
     <comment>Select folder</comment>
   </data>
   <data name="B_SelectIcon.Content" xml:space="preserve">
-    <value></value>
+    <value>Icon auswählen</value>
     <comment>Select icon</comment>
   </data>
   <data name="B_ShowCB.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Befehlsleiste anzeigen</value>
     <comment>Show command bar</comment>
   </data>
   <data name="B_Sort.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Sortieren</value>
     <comment>Sort</comment>
   </data>
   <data name="B_Sync_Edit.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Bearbeiten</value>
     <comment>Edit</comment>
   </data>
   <data name="B_TextFormat.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Textformat</value>
     <comment>Text Format</comment>
   </data>
   <data name="B_TextStyle.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Textstil</value>
     <comment>Text Style</comment>
   </data>
   <data name="B_Theme1.Content" xml:space="preserve">
-    <value></value>
+    <value>Weiß</value>
     <comment>White</comment>
   </data>
   <data name="B_Theme1.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Weiß (Strg + T + 1)</value>
     <comment>White (Ctrl + T + 1)</comment>
   </data>
   <data name="B_Theme2.Content" xml:space="preserve">
-    <value></value>
+    <value>Silber</value>
     <comment>Silver</comment>
   </data>
   <data name="B_Theme2.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Silber (Strg + T + 2)</value>
     <comment>Silver (Ctrl + T + 2)</comment>
   </data>
   <data name="B_Theme3.Content" xml:space="preserve">
-    <value></value>
+    <value>Sepia</value>
     <comment>Sepia</comment>
   </data>
   <data name="B_Theme3.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Sepia (Strg + T + 3)</value>
     <comment>Sepia (Ctrl + T + 3)</comment>
   </data>
   <data name="B_Theme4.Content" xml:space="preserve">
-    <value></value>
+    <value>Schwarz</value>
     <comment>Night</comment>
   </data>
   <data name="B_Theme4.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Schwarz (Strg + T + 4)</value>
     <comment>Night (Ctrl + T + 4)</comment>
   </data>
   <data name="B_Theme5.Content" xml:space="preserve">
-    <value></value>
+    <value>Nacht</value>
     <comment>Solarized</comment>
   </data>
   <data name="B_Theme5.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Nacht (Strg + T + 5)</value>
     <comment>Solarized (Ctrl + T + 5)</comment>
   </data>
   <data name="B_Theme6.Content" xml:space="preserve">
-    <value></value>
+    <value>Eigene</value>
     <comment>Custom</comment>
   </data>
   <data name="B_TOC.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Inhaltsverzeichnis</value>
     <comment>Table Of Contents</comment>
   </data>
   <data name="B_ToggleFav.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Favorit</value>
     <comment>Toggle Favorite</comment>
   </data>
   <data name="B_ToggleFullscreen.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vollbild umschalten (F11)</value>
     <comment>Toggle Fullscreen (F11)</comment>
   </data>
   <data name="B_Translate.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Übersetzen</value>
     <comment>Translate</comment>
   </data>
   <data name="B_Tw.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Folge uns auf Twitter</value>
     <comment>Follow us on Twitter</comment>
   </data>
   <data name="B_ZoomIn.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Vergrößern</value>
     <comment>Zoom In</comment>
   </data>
   <data name="B_ZoomOut.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Verkleinern</value>
     <comment>Zoom Out</comment>
   </data>
   <data name="C_AddFolder_AddRecent.Content" xml:space="preserve">
-    <value></value>
+    <value>Füge Bücher zur Liste der zuletzt verwendeten hinzu</value>
     <comment>Add books to recent list</comment>
   </data>
   <data name="C_AddFolder_AutoRemove.Content" xml:space="preserve">
-    <value></value>
+    <value>Entferne Bücher automatisch aus der Bibliothek (inklusive Notizen, Markierungen usw.), wenn Dateien aus dem Ordner gelöscht werden</value>
     <comment>Automatically remove books from the library (including notes, highlights, etc) when files are deleted from the folder</comment>
   </data>
   <data name="C_AddFolder_RecSearch.Content" xml:space="preserve">
-    <value></value>
+    <value>Unterordner ebenfalls durchsuchen</value>
     <comment>Recursively search sub-folders</comment>
   </data>
   <data name="C_AddFolder_SyncFolder.Content" xml:space="preserve">
-    <value></value>
+    <value>Diesen Ordner synchronisieren und neue Bücher automatisch hinzufügen</value>
     <comment>Sync this folder and automatically add new books</comment>
   </data>
   <data name="C_Backup_AStats.Content" xml:space="preserve">
-    <value></value>
+    <value>App-Statistiken</value>
     <comment>App statistics</comment>
   </data>
   <data name="C_Backup_BFav.Content" xml:space="preserve">
-    <value></value>
+    <value>Favoritenliste</value>
     <comment>Book favorite list</comment>
   </data>
   <data name="C_Backup_BFiles.Content" xml:space="preserve">
-    <value></value>
+    <value>Buchdateien</value>
     <comment>Book files</comment>
   </data>
   <data name="C_Backup_BMeta.Content" xml:space="preserve">
-    <value></value>
+    <value>Buch-Metadaten</value>
     <comment>Book metadata</comment>
   </data>
   <data name="C_Backup_Bookmarks.Content" xml:space="preserve">
-    <value></value>
+    <value>Lesezeichen</value>
     <comment>Bookmarks</comment>
   </data>
   <data name="C_Backup_Config.Description" xml:space="preserve">
-    <value></value>
+    <value>Wähle die Konfiguration für die Backup- oder Wiederherstellungsvorgänge</value>
     <comment>Select the configuration for backup or restore operation</comment>
   </data>
   <data name="C_Backup_Config.Title" xml:space="preserve">
-    <value></value>
+    <value>Konfiguration wählen</value>
     <comment>Choose configuration</comment>
   </data>
   <data name="C_Backup_NandH.Content" xml:space="preserve">
-    <value></value>
+    <value>Notizen &amp; Markierungen</value>
     <comment>Notes &amp; highlights</comment>
   </data>
   <data name="C_Backup_Operation.Description" xml:space="preserve">
-    <value></value>
+    <value>Wähle die gewünschte Aktion aus</value>
     <comment>Select the operation you want to perform</comment>
   </data>
   <data name="C_Backup_Operation.Title" xml:space="preserve">
-    <value></value>
+    <value>Aktion wählen</value>
     <comment>Choose operation</comment>
   </data>
   <data name="C_Backup_Storage.Description" xml:space="preserve">
-    <value></value>
+    <value>Wähle die Quell- oder Zielspeicherung für die Aktion</value>
     <comment>Select the source or target storage for the operation</comment>
   </data>
   <data name="C_Backup_Storage.Title" xml:space="preserve">
-    <value></value>
+    <value>Speicher wählen</value>
     <comment>Choose storage</comment>
   </data>
   <data name="C_Books.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Bücher</value>
     <comment>Books</comment>
   </data>
   <data name="C_ChapterList.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Kapitelliste</value>
     <comment>Chapter list</comment>
   </data>
   <data name="C_CollectionType.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Kollektionstyp</value>
     <comment>Collection Type</comment>
   </data>
   <data name="C_General_Advt.Description" xml:space="preserve">
-    <value></value>
+    <value>Präferenzen für Art der Werbung</value>
     <comment>Preference for type of advertisements</comment>
   </data>
   <data name="C_General_Advt.Title" xml:space="preserve">
-    <value></value>
+    <value>Werbungspräferenz</value>
     <comment>Advt. preference</comment>
   </data>
   <data name="C_General_BookTitle.Description" xml:space="preserve">
-    <value></value>
+    <value>Titel aller Bücher in der Bibliotheksansicht anzeigen</value>
     <comment>Display title for all books in the library view</comment>
   </data>
   <data name="C_General_BookTitle.Title" xml:space="preserve">
-    <value></value>
+    <value>Buchtitel anzeigen</value>
     <comment>Show book titles</comment>
   </data>
   <data name="C_General_Lang.Description" xml:space="preserve">
-    <value></value>
+    <value>Buttons, Menüs und andere Steuerelemente werden in dieser Sprache angezeigt.
+Diese Einstellung wird beim nächsten Start der App angewendet.</value>
     <comment>Buttons, menus and other controls will show in this language.
 This setting will be applied on the next start of the app.</comment>
   </data>
   <data name="C_General_Lang.Title" xml:space="preserve">
-    <value></value>
+    <value>Anzeigesprache</value>
     <comment>Display language</comment>
   </data>
   <data name="C_General_Tutorial.Description" xml:space="preserve">
-    <value></value>
+    <value>Alle Tutorials erneut anzeigen</value>
     <comment>Show all the tutorials again</comment>
   </data>
   <data name="C_General_Tutorial.Title" xml:space="preserve">
-    <value></value>
+    <value>Tutorials zurücksetzen</value>
     <comment>Reset tutorials</comment>
   </data>
   <data name="C_Personal_ColorThemes.Title" xml:space="preserve">
-    <value></value>
+    <value>Farbschemata</value>
     <comment>Color themes</comment>
   </data>
   <data name="C_Personal_TransBanckground.Title" xml:space="preserve">
-    <value></value>
+    <value>Transparenter Hintergrund</value>
     <comment>Transparent background</comment>
   </data>
   <data name="C_Personal_TransBanckSlider.Title" xml:space="preserve">
-    <value></value>
+    <value>Transparenz des Hintergrunds</value>
     <comment>Background transparency</comment>
   </data>
   <data name="C_Prem1.BillDetails" xml:space="preserve">
-    <value></value>
+    <value>Vierteljährlich abgerechnet</value>
     <comment>Billed quarterly</comment>
   </data>
   <data name="C_Prem1.DurationString" xml:space="preserve">
-    <value></value>
+    <value> Monate</value>
     <comment> months</comment>
   </data>
   <data name="C_Prem2.BillDetails" xml:space="preserve">
-    <value></value>
+    <value>Jährlich abgerechnet</value>
     <comment>Billed annually</comment>
   </data>
   <data name="C_Prem2.DurationString" xml:space="preserve">
-    <value></value>
+    <value> Monate</value>
     <comment> months</comment>
   </data>
   <data name="C_Prem3.BillDetails" xml:space="preserve">
-    <value></value>
+    <value>Einmaliger Kauf</value>
     <comment>One time purchase</comment>
   </data>
   <data name="C_Prem3.DurationString" xml:space="preserve">
-    <value></value>
+    <value>Lebenslang</value>
     <comment>Lifetime</comment>
   </data>
   <data name="C_Reader_AutoLayout.Description" xml:space="preserve">
-    <value></value>
+    <value>Im Hochformat wechselt der Reader automatisch vom zweispaltigen in das einspaltige Layout und umgekehrt</value>
     <comment>In 2-column layout when device rotates to portrait mode, reader will auto switch to 1-column layout, and vice versa</comment>
   </data>
   <data name="C_Reader_AutoLayout.Title" xml:space="preserve">
-    <value></value>
+    <value>Automatischer Wechsel zum einspaltigen Layout</value>
     <comment>Auto switch to 1 column layout</comment>
   </data>
   <data name="C_Reader_AutoScroll.Description" xml:space="preserve">
-    <value></value>
+    <value>Scrollt die Seite automatisch, um dem gelesenen Satz im Vorlesemodus zu folgen</value>
     <comment>Auto scrolls the page to follow the sentence being read in the ReadAloud mode</comment>
   </data>
   <data name="C_Reader_AutoScroll.Title" xml:space="preserve">
-    <value></value>
+    <value>Automatisches Scrollen</value>
     <comment>ReadAloud auto-scroll</comment>
   </data>
   <data name="C_Reader_BookFont.Description" xml:space="preserve">
-    <value></value>
+    <value>Der Reader verwendet die Originalschriftarten, die mit dem Buch geliefert werden</value>
     <comment>Reader uses the original fonts packaged with the book</comment>
   </data>
   <data name="C_Reader_BookFont.Title" xml:space="preserve">
-    <value></value>
+    <value>Buch-Schriftarten verwenden</value>
     <comment>Use book's fonts</comment>
   </data>
   <data name="C_Reader_DictLang.Description" xml:space="preserve">
-    <value></value>
+    <value>Die Sprache des im Reader verwendeten Wörterbuchs</value>
     <comment>Language of the in-reader dictionary</comment>
   </data>
   <data name="C_Reader_DictLang.Title" xml:space="preserve">
-    <value></value>
+    <value>Sprache des Wörterbuchs</value>
     <comment>Dictionary language</comment>
   </data>
   <data name="C_Reader_EnhRender.Description" xml:space="preserve">
-    <value></value>
+    <value>Verbessert das Format/Layout, in dem Bücher zum Lesen dargestellt werden</value>
     <comment>Improves the format/layout in which books are rendered for reading</comment>
   </data>
   <data name="C_Reader_EnhRender.Title" xml:space="preserve">
-    <value></value>
+    <value>Verbesserte Darstellung</value>
     <comment>Enhanced rendering</comment>
   </data>
   <data name="C_Reader_SearchEngine.Description" xml:space="preserve">
-    <value></value>
+    <value>Suchmaschine für die Websuche</value>
     <comment>Search engine to use for web search</comment>
   </data>
   <data name="C_Reader_SearchEngine.Title" xml:space="preserve">
-    <value></value>
+    <value>Suchmaschine</value>
     <comment>Search engine</comment>
   </data>
   <data name="C_Reader_StdMrgn.Description" xml:space="preserve">
-    <value></value>
+    <value>Überschreibt alle im Buch angegebenen Ränder, um ein konsistentes Layout im Reader zu gewährleisten</value>
     <comment>Overrides any margin specified in the book to provide consistent layout in the reader</comment>
   </data>
   <data name="C_Reader_StdMrgn.Title" xml:space="preserve">
-    <value></value>
+    <value>Standardmäßige Ränder</value>
     <comment>Standardize margins</comment>
   </data>
   <data name="C_Reader_TextAlign.Description" xml:space="preserve">
-    <value></value>
+    <value>Überschreibt alle im Buch angegebenen Textausrichtungseinstellungen, um ein konsistentes Layout im Reader zu gewährleisten</value>
     <comment>Overrides any text alignment preference set in the book to provide consistent layout in the reader</comment>
   </data>
   <data name="C_Reader_TextAlign.Title" xml:space="preserve">
-    <value></value>
+    <value>Textausrichtung überschreiben</value>
     <comment>Override text alignment</comment>
   </data>
   <data name="C_ShowFavs.Content" xml:space="preserve">
-    <value></value>
+    <value>Nur Favoriten anzeigen</value>
     <comment>Show only favorites</comment>
   </data>
   <data name="CB_Category.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Kategorien</value>
     <comment>Categories</comment>
   </data>
   <data name="EBI_Author.Text" xml:space="preserve">
-    <value></value>
+    <value>Autor(en): </value>
     <comment>Author(s) : </comment>
   </data>
   <data name="EBI_Cover1.Content" xml:space="preserve">
-    <value></value>
+    <value>Cover auswählen</value>
     <comment>Select cover</comment>
   </data>
   <data name="EBI_Cover2.ToolTipService.ToolTip" xml:space="preserve">
-    <value></value>
+    <value>Originales Cover wiederherstellen</value>
     <comment>Restore original cover</comment>
   </data>
   <data name="EBI_Description.Text" xml:space="preserve">
-    <value></value>
+    <value>Beschreibung: </value>
     <comment>Description : </comment>
   </data>
   <data name="EBI_ErrMsg1" xml:space="preserve">
-    <value></value>
+    <value>Seriennummer darf nicht leer sein</value>
     <comment>Series number cannot be empty</comment>
   </data>
   <data name="EBI_ErrMsg2" xml:space="preserve">
-    <value></value>
+    <value>Seriennummer ungültig</value>
     <comment>Series number not valid</comment>
   </data>
   <data name="EBI_Genre.Text" xml:space="preserve">
-    <value></value>
+    <value>Genre(s): </value>
     <comment>Genre(s) : </comment>
   </data>
   <data name="EBI_Language.Text" xml:space="preserve">
-    <value></value>
+    <value>Sprache(n): </value>
     <comment>Language(s) : </comment>
   </data>
   <data name="EBI_Msg1.Text" xml:space="preserve">
-    <value></value>
+    <value> • Bei mehreren Werten pro Eintrag Semikolons ( ; ) benutzen, um sie voneinander zu trennen.</value>
     <comment> • (s) - Use semi-colon ( ; ) to separate multiple entries.</comment>
   </data>
   <data name="EBI_Publisher.Text" xml:space="preserve">
-    <value></value>
+    <value>Verlag(e): </value>
     <comment>Publisher(s) : </comment>
   </data>
   <data name="EBI_Series.Text" xml:space="preserve">
-    <value></value>
+    <value>Serie: </value>
     <comment>Series : </comment>
   </data>
   <data name="EBI_SeriesNumber.Text" xml:space="preserve">
-    <value></value>
+    <value>Seriennummer: </value>
     <comment>Series Number : </comment>
   </data>
   <data name="EBI_Title.Text" xml:space="preserve">
-    <value></value>
+    <value>Informationen bearbeiten</value>
     <comment>Edit book information</comment>
   </data>
   <data name="IAP_Discount.Text" xml:space="preserve">
-    <value></value>
+    <value>20% Rabatt</value>
     <comment>20% off</comment>
   </data>
   <data name="IAP_Popular.Text" xml:space="preserve">
-    <value></value>
+    <value>Am beliebtesten</value>
     <comment>Most Popular</comment>
   </data>
   <data name="M_About.Content" xml:space="preserve">
-    <value></value>
+    <value>Über uns</value>
     <comment>About us</comment>
   </data>
   <data name="M_AddBook.Text" xml:space="preserve">
-    <value></value>
+    <value>Buchdatei(en) hinzufügen</value>
     <comment>Add book file(s)</comment>
   </data>
   <data name="M_AddFavourite.Text" xml:space="preserve">
-    <value></value>
+    <value>Favorit hinzufügen</value>
     <comment>Add Favourite</comment>
   </data>
   <data name="M_AddFolder.Text" xml:space="preserve">
-    <value></value>
+    <value>Ordner hinzufügen</value>
     <comment>Add folder</comment>
   </data>
   <data name="M_Backup.Content" xml:space="preserve">
-    <value></value>
+    <value>Backup &amp; Wiederherstellung</value>
     <comment>Backup &amp; Restore</comment>
   </data>
   <data name="M_BookInfo.Text" xml:space="preserve">
-    <value></value>
+    <value>Buchinformationen</value>
     <comment>Book Info</comment>
   </data>
   <data name="M_ChngLog.Content" xml:space="preserve">
-    <value></value>
+    <value>Changelog</value>
     <comment>Change log</comment>
   </data>
   <data name="M_CreationTime.Text" xml:space="preserve">
-    <value></value>
+    <value>Erstellungszeit</value>
     <comment>Creation time</comment>
   </data>
   <data name="M_Edit.Text" xml:space="preserve">
-    <value></value>
+    <value>Bearbeiten</value>
     <comment>Edit</comment>
   </data>
   <data name="M_EditBookInfo.Text" xml:space="preserve">
-    <value></value>
+    <value>Buchinformationen bearbeiten</value>
     <comment>Edit Book Info</comment>
   </data>
   <data name="M_General.Content" xml:space="preserve">
-    <value></value>
+    <value>Allgemein</value>
     <comment>General</comment>
   </data>
   <data name="M_OpenBook.Text" xml:space="preserve">
-    <value></value>
+    <value>Buch öffnen</value>
     <comment>Open Book</comment>
   </data>
   <data name="M_Personal.Content" xml:space="preserve">
-    <value></value>
+    <value>Personalisierung</value>
     <comment>Personalization</comment>
   </data>
   <data name="M_PinUnpin.Text" xml:space="preserve">
-    <value></value>
+    <value>An Start anheften/lösen</value>
     <comment>Pin/Unpin to Start</comment>
   </data>
   <data name="M_PosInBook.Text" xml:space="preserve">
-    <value></value>
+    <value>Position im Buch</value>
     <comment>Position in book</comment>
   </data>
   <data name="M_Reader.Content" xml:space="preserve">
-    <value></value>
+    <value>Reader</value>
     <comment>Reader</comment>
   </data>
   <data name="M_Remove.Text" xml:space="preserve">
-    <value></value>
+    <value>Entfernen</value>
     <comment>Remove</comment>
   </data>
   <data name="M_RemoveFavourite.Text" xml:space="preserve">
-    <value></value>
+    <value>Favorit entfernen</value>
     <comment>Remove Favourite</comment>
   </data>
   <data name="M_SaveToFile.Text" xml:space="preserve">
-    <value></value>
+    <value>In Datei speichern</value>
     <comment>Save to file</comment>
   </data>
   <data name="M_Share.Text" xml:space="preserve">
-    <value></value>
+    <value>Teilen</value>
     <comment>Share</comment>
   </data>
   <data name="M_SyncFolder.Content" xml:space="preserve">
-    <value></value>
+    <value>Ordner synchronisieren</value>
     <comment>Sync folders</comment>
   </data>
   <data name="N_Collections.Content" xml:space="preserve">
-    <value></value>
+    <value>Kollektionen</value>
     <comment>Collections</comment>
   </data>
   <data name="N_Feedback.Content" xml:space="preserve">
-    <value></value>
+    <value>Feedback</value>
     <comment>Feedback</comment>
   </data>
   <data name="N_Home.Content" xml:space="preserve">
-    <value></value>
+    <value>Startseite</value>
     <comment>Home</comment>
   </data>
   <data name="N_Library.Content" xml:space="preserve">
-    <value></value>
+    <value>Bibliothek</value>
     <comment>Library</comment>
   </data>
   <data name="N_OnlineBooks.Content" xml:space="preserve">
-    <value></value>
+    <value>Online-Bücher</value>
     <comment>Online Books</comment>
   </data>
   <data name="N_Premium.Content" xml:space="preserve">
-    <value></value>
+    <value>Premium</value>
     <comment>Premium</comment>
   </data>
   <data name="N_ReportBug.Content" xml:space="preserve">
-    <value></value>
+    <value>Fehler melden</value>
     <comment>Report bug</comment>
   </data>
   <data name="N_Settings.Content" xml:space="preserve">
-    <value></value>
+    <value>Einstellungen</value>
     <comment>Settings</comment>
   </data>
   <data name="N_Statistics.Content" xml:space="preserve">
-    <value></value>
+    <value>Statistiken</value>q
     <comment>Statistics</comment>
   </data>
   <data name="RI_No" xml:space="preserve">
